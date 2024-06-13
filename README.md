@@ -8,5 +8,5 @@
 
 1. [Identifying the presence of a file in a directory](https://github.com/Ramonmelod/scripts-sh/tree/main/file-existence-checker)
 2. [Checking the authencity of a file based on its checksum](https://github.com/Ramonmelod/scripts-sh/tree/main/shasumchecker)
-
+3. [Adding an Alias for the xampp server on the .bashrc file](https://github.com/Ramonmelod/scripts-sh/tree/main/xamppalias)
 
