@@ -1,1 +1,0 @@
-{"ok":true,"result":{"message_id":48,"from":{"id":7089796505,"is_bot":true,"first_name":"Test","username":"Ramontest_bot"},"chat":{"id":5843506138,"first_name":"Ramon","last_name":"Melo","type":"private"},"date":1719510727,"text":"{\"ip\":\"191.251.43.10\"}","entities":[{"offset":7,"length":13,"type":"url"}]}}
