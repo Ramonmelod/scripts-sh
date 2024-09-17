@@ -11,4 +11,6 @@
 3. [Adding an Alias for the xampp server on the .bashrc file](https://github.com/Ramonmelod/scripts-sh/tree/main/xamppalias)
 4. [Checking your machine IPV6 and sending it to a Telegram BOT](https://github.com/Ramonmelod/scripts-sh/tree/main/ipv6-telegram-sender)
 5. [Checking BTC value in Dolars and Reais an sending it to a Telegram BOT](https://github.com/Ramonmelod/scripts-sh/tree/main/btcvalue-telegram-sender)
+6. [Checking an Stock value in B3 and sending it to a Telegram BOT](https://github.com/Ramonmelod/scripts-sh/tree/main/b3-stocks-consulting)
+
 
