@@ -27,3 +27,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 sudo docker run hello-world # shows if docker instalations worked
 
+# Makes possible to use docker without sudo
+sudo usermod -aG docker $USER
+newgrp docker
