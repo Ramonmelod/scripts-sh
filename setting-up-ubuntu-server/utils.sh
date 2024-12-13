@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "utils.sh runing"
+echo "utils.sh running"
 sudo apt install git gcc # installing git and gcc
 
 echo "installing asdf"
