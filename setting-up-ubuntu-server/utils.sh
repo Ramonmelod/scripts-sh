@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "utils.sh running"
-sudo apt install git gcc # installing git and gcc
+sudo apt install git gcc chromium-browser chromium-chromedriver # installing git, gcc, chromium and chromium-driver
 
 echo "installing asdf"
 
