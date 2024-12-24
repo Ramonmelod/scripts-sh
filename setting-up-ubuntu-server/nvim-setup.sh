@@ -2,7 +2,7 @@
 
 echo -e "\n\n\n nvim-setup.sh running\n\n\n"
 
-sudo apt install neovim
+sudo apt install neovim -y
 
 rm -rf ~/.config/nvim 
 
