@@ -9,7 +9,7 @@ echo -e " Running the start_banner.sh script in order to set the start banner se
 ./start_banner.sh
 
 echo -e " Running the squid-proxy script in order to install squid and make available your personal proxy server\n\n\n "
-./squid-proxy
+./squid-proxy.sh
 
 echo -e " Running the nvim-setup.sh script in order to download Ramon Melo Neovim setup\n\n\n "
 ./nvim-setup.sh 
