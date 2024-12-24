@@ -6,3 +6,5 @@
 ./main.sh
 
 ```
+
+- to use the proxy with squid you must to put your ip in the file squid.conf. You can do this before runnign the `squid-proxy.sh` script or ufter running it, you can edit the `/etc/squid/squid.conf` file adding you IP mask there.
